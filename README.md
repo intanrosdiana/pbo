@@ -1,6 +1,8 @@
 # Project PBO
 
 Project ini digunakan untuk praktek mata kuliah PBO.
+nama:intan rosdiana
+npm:2015804353
 
 ## Instalasi
 
